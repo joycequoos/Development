@@ -1,64 +1,50 @@
 # Development
 
+Repositório dedicado ao estudo e prática de desenvolvimento de software, cobrindo desde a base em Python e Node.js até aplicações Full Stack com .NET e Angular.
 
-#### ✨ Node.JS:
+[← Voltar ao perfil](https://github.com/joycequoos)
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Node_JS">Exercicios Node.JS </a></p>
-</div> 
+## Python
 
-#### ✨ Python:
+| Tópico | Recurso |
+|---|---|
+| Ambiente | [Instalação do Python, VS Code e extensões](https://github.com/JosiTubaroski/Instala_Python_VSCode_Extencoes/blob/main/README.md) |
+| Fundamentos | [Sobre o interpretador do Python](https://github.com/JosiTubaroski/Inter) |
+| Bibliotecas | [Instalando bibliotecas Python](https://github.com/JosiTubaroski/Blibliotecas_Python) |
+| Exercícios | [Exercícios Python (iniciantes)](https://github.com/JosiTubaroski/Python-Exercises) |
+| ETL | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Instala_Python_VSCode_Extencoes/blob/main/README.md">1 - Instalação do Python, editor VS Code e extensões </a></p>
-</div> 
+## Node.js
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Inter">2 - Um pouco sobre: Interpretador do Python. </a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| Exercícios | [Exercícios Node.js](https://github.com/JosiTubaroski/Node_JS) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Blibliotecas_Python">3 - Instalando Bibliotecas Python. </a></p>
-</div> 
+## .NET & Web APIs
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Python-Exercises">4 - Exercicios Python (Iniciantes) </a></p>
-</div> 
+| Tópico | Recurso |
+|---|---|
+| Web API | [Desenvolvimento de Web API com .NET 8 e SQL Server](https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server) |
+| Jobs em background | [Projeto com Hangfire](https://github.com/JosiTubaroski/NET8_HangFire/tree/main) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/ETL_com_python">5 - ETL com Python </a></p>
-</div> 
+## Full Stack
 
-#### ✨ Desenvolvimento WEB API com .NET8 e SQLServer:
+| Tópico | Recurso |
+|---|---|
+| Angular + .NET | [Projeto Full Stack Angular 16 + .NET](https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">Desenvolvimento WEB API com .NET8 e SQLServer</a></p>
-</div> 
+## Delphi
 
-#### ✨ Projeto Full Stack Angular 16 + .NET:
+| Tópico | Recurso |
+|---|---|
+| História & Evolução | [A história e evolução do Delphi](https://github.com/JosiTubaroski/Delphi) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET">Projeto Full Stack Angular 16 + .NET</a></p>
-</div> 
+## Boas Práticas
 
-### Hangfire
+| Tópico | Recurso |
+|---|---|
+| Git & GitHub | [Como subir seu projeto no GitHub](https://github.com/JosiTubaroski/Subir_Projeto_Github) |
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/NET8_HangFire/tree/main">Projeto HangFire</a></p>
-</div> 
+## Contato
 
-
-#### ✨ Subindo seu projeto no github
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Subir_Projeto_Github">Subindo seu projeto no github</a></p>
-</div> 
-
-#### ✨ Delphi:
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Delphi">Um pouco sobre: A historia e evolução do Delphi. </a></p>
-</div> 
-
-
-
+Sugestões, dúvidas ou colaborações são bem-vindas — abra uma *issue* ou entre em contato pelo perfil do GitHub.
