@@ -4,15 +4,7 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 
 [← Voltar ao perfil](https://github.com/joycequoos)
 
-## Python
 
-| Tópico | Recurso |
-|---|---|
-| Ambiente | [Instalação do Python, VS Code e extensões](https://github.com/JosiTubaroski/Instala_Python_VSCode_Extencoes/blob/main/README.md) |
-| Fundamentos | [Sobre o interpretador do Python](https://github.com/JosiTubaroski/Inter) |
-| Bibliotecas | [Instalando bibliotecas Python](https://github.com/JosiTubaroski/Blibliotecas_Python) |
-| Exercícios | [Exercícios Python (iniciantes)](https://github.com/JosiTubaroski/Python-Exercises) |
-| ETL | [ETL com Python](https://github.com/JosiTubaroski/ETL_com_python) |
 
 ## Node.js
 
