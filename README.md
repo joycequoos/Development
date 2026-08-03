@@ -17,7 +17,7 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 | Tópico | Recurso |
 |---|---|
 | Web API | [Desenvolvimento de Web API com .NET 8 e SQL Server](https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server) |
-| Jobs em background | [Projeto com Hangfire](https://github.com/JosiTubaroski/NET8_HangFire/tree/main) |
+| Jobs em background | [Projeto com Hangfire](https://github.com/joycequoos/NET8_HangFire/blob/main/README.md) |
 
 ## Full Stack
 
