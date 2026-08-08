@@ -34,7 +34,7 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 
 | Tópico | Recurso |
 |---|---|
-| História & Evolução | [A história e evolução do Delphi](https://github.com/joycequood/Delphi) |
+| História & Evolução | [A história e evolução do Delphi](https://github.com/joycequoos/Delphi) |
 
 ## Contato
 
