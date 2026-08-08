@@ -4,12 +4,6 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 
 [← Voltar ao perfil](https://github.com/joycequoos)
 
-## Full Stack
-
-| Tópico | Recurso |
-|---|---|
-| Angular + .NET | [Projeto Full Stack Angular 16 + .NET](https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET) |
-
 ## .NET & Web APIs
 
 | Tópico | Recurso |
@@ -17,6 +11,11 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 | Web API | [Desenvolvimento de Web API com .NET 8 e SQL Server](https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server) |
 | Jobs em background | [Projeto com Hangfire](https://github.com/joycequoos/NET8_HangFire/blob/main/README.md) |
 
+## Full Stack
+
+| Tópico | Recurso |
+|---|---|
+| Angular + .NET | [Projeto Full Stack Angular 16 + .NET](https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET) |
 
 ## Node.js
 
