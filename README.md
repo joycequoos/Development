@@ -30,12 +30,6 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 | Git & GitHub | [Como subir seu projeto no GitHub](https://github.com/joycequoos/Subir_Projeto_Github) |
 
 
-## Delphi
-
-| Tópico | Recurso |
-|---|---|
-| História & Evolução | [A história e evolução do Delphi](https://github.com/joycequoos/Delphi) |
-
 ## Contato
 
 Sugestões, dúvidas ou colaborações são bem-vindas — abra uma *issue* ou entre em contato pelo perfil do GitHub.
