@@ -27,9 +27,8 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 
 | Recurso | Descrição |
 |---|---|
-| [Exercícios JavaScript — Parte 1](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_PrimeiraParte) | Exercícios práticos introdutórios de JavaScript. |
-| [Exercícios JavaScript — Parte 2](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_SegundaParte) | Continuação dos exercícios práticos de JavaScript. |
-
+|Exercícios práticos introdutórios de JavaScript.| [Exercícios JavaScript — Parte 1](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_PrimeiraParte) | 
+|Continuação dos exercícios práticos de JavaScript.| [Exercícios JavaScript — Parte 2](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_SegundaParte) | 
 ## Criação de Sites
 
 | Tópico | Recurso |
@@ -41,7 +40,7 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 
 | Recurso | Descrição |
 |---|---|
-| [Fundamentos do Bootstrap e páginas responsivas](https://github.com/joycequoos/Bootstrap/tree/main) | O que é o Bootstrap, o que são páginas responsivas e um exemplo prático de tela de login. |
+|O que é o Bootstrap, o que são páginas responsivas e um exemplo prático de tela de login. | [Fundamentos do Bootstrap e páginas responsivas](https://github.com/joycequoos/Bootstrap/tree/main) | 
 
 ## Boas Práticas
 
