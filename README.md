@@ -23,6 +23,13 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 |---|---|
 | Exercícios | [Exercícios Node.js](https://github.com/JosiTubaroski/Node_JS) |
 
+## JavaScript
+
+| Recurso | Descrição |
+|---|---|
+| [Exercícios JavaScript — Parte 1](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_PrimeiraParte) | Exercícios práticos introdutórios de JavaScript. |
+| [Exercícios JavaScript — Parte 2](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_SegundaParte) | Continuação dos exercícios práticos de JavaScript. |
+
 ## Boas Práticas
 
 | Tópico | Recurso |
