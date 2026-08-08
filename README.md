@@ -27,7 +27,7 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 
 | Tópico | Recurso |
 |---|---|
-| Git & GitHub | [Como subir seu projeto no GitHub](https://github.com/joycequood/Subir_Projeto_Github) |
+| Git & GitHub | [Como subir seu projeto no GitHub](https://github.com/joycequoos/Subir_Projeto_Github) |
 
 
 ## Delphi
