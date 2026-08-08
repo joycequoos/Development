@@ -30,6 +30,19 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 | [Exercícios JavaScript — Parte 1](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_PrimeiraParte) | Exercícios práticos introdutórios de JavaScript. |
 | [Exercícios JavaScript — Parte 2](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_SegundaParte) | Continuação dos exercícios práticos de JavaScript. |
 
+## Criação de Sites
+
+| Tópico | Recurso |
+|---|---|
+| VS Code / HTML / CSS / JS / Bootstrap | [Criando um site com Visual Studio Code](https://github.com/joycequoos/Sites/blob/main/Criando%20Sites.ipynb) |
+
+
+## Bootstrap
+
+| Recurso | Descrição |
+|---|---|
+| [Fundamentos do Bootstrap e páginas responsivas](https://github.com/joycequoos/Bootstrap/tree/main) | O que é o Bootstrap, o que são páginas responsivas e um exemplo prático de tela de login. |
+
 ## Boas Práticas
 
 | Tópico | Recurso |
