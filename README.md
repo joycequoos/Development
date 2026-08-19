@@ -33,7 +33,7 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 
 | Tópico | Recurso |
 |---|---|
-| VS Code / HTML / CSS / JS / Bootstrap | [Criando um site com Visual Studio Code](https://github.com/joycequoos/Sites/tree/main) |
+| VS Code / HTML / CSS / JS / Bootstrap | [Criando um site com Visual Studio Code](https://github.com/joycequoos/Sites/blob/main/README.md) |
 
 
 ## Bootstrap
