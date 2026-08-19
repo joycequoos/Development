@@ -28,7 +28,7 @@ Repositório dedicado ao estudo e prática de desenvolvimento de software, cobri
 | Recurso | Descrição |
 |---|---|
 |Exercícios práticos introdutórios de JavaScript.| [Exercícios JavaScript — Parte 1](https://github.com/joycequoos/Sites/blob/main/Exercicios_JavaScript_PrimeiraParte/README_Exercicios_JavaScript_PrimeiraParte.md) | 
-|Continuação dos exercícios práticos de JavaScript.| [Exercícios JavaScript — Parte 2](https://github.com/joycequoos/Sites/tree/main/Exercicios_JavaScript_SegundaParte) | 
+|Continuação dos exercícios práticos de JavaScript.| [Exercícios JavaScript — Parte 2](https://github.com/joycequoos/Sites/blob/main/Exercicios_JavaScript_SegundaParte/README_Exercicios_JavaScript_SegundaParte.md) | 
 ## Criação de Sites
 
 | Tópico | Recurso |
